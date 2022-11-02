@@ -9,5 +9,10 @@ Creating dicee app using SwiftUI.
 * How to arrange elemets using SwiftUI stacks.
 * Learn how to use modifiers to set properties for components.
 * Learn how to add and size image components.
+* Learn about creating subviews with properties that can change.
+
+## Documentation
+
+https://developer.apple.com/documentation/swiftui/
 
  
