@@ -1,4 +1,4 @@
-<img width="195" alt="Знімок екрана 2022-11-01 о 22 43 24" src="https://user-images.githubusercontent.com/109367230/199347421-f8bdec96-8052-449c-a131-554dc5c5542e.png">
+<img width="419" alt="Знімок екрана 2022-11-01 о 23 15 49" src="https://user-images.githubusercontent.com/109367230/199352304-5e95166f-702e-4e1e-a8ce-f0af16e4d2a4.png">
 
 ## Goal
 Creating dicee app using SwiftUI.
